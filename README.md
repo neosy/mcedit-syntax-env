@@ -47,7 +47,7 @@ $ ./mc_syntax-install_user.sh
 Now the syntax highlighting should work
 
 # Preview
-#![2023-11-16_13-35-57](https://github.com/neosy/mcedit-syntax-env/assets/105918329/5c253801-47b9-4010-a853-f5d5f7eadba7)
+![2023-11-16_13-35-57](https://github.com/neosy/mcedit-syntax-env/assets/105918329/5c253801-47b9-4010-a853-f5d5f7eadba7)
 
 # Other
 If you want to get default black background color, edit `$HOME/.config/mc/ini` and change `basecolor` to

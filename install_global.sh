@@ -22,7 +22,7 @@ if [ "$EUID" -ne 0 ]; then
 fi
 
 # Copy files *.syntax to Syntax
-cp $SYNTAX_MY_PATH/*.syntax $SYNTAX_PATH
+cp $SYNTAX_MY_PATH/*.syntax $SYNTAX_PATH 2>/dev/null
 
 row=`cat "$SYNTAX_FILE" | grep -E '^(file)(.*)(env\\$)'`
 
