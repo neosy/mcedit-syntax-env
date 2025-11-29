@@ -53,6 +53,3 @@ Now the syntax highlighting should work
 If you want to get default black background color, edit `$HOME/.config/mc/ini` and change `basecolor` to
 
     base_color=editnormal=default,black:editwhitespace=default,red
-
-## License
-The contents of this package uses the same license as Midnight Commander, the [GPLv2](https://www.gnu.org/licenses/gpl-2.0.en.html) or higher.
